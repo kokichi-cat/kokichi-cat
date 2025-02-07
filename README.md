@@ -1,3 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kokichi-cat&repo=Mini-4WD-Race-Management-App&theme=★★★)](https://github.com/kokichi-cat/Mini-4WD-Race-Management-App)
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kokichi-cat&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
